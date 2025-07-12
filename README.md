@@ -42,31 +42,60 @@
 ## 💼 Professional Experience
 
 <details>
-  <summary><b>🔹 TAKVerge — WordPress Developer</b> <em>(Mar 2025 – Present | Remote)</em></summary>
+  <summary><b>GoAccelovate — Wordpress Developer</b> <em>(Mar 2025 – Present · Part-time · Remote)</em></summary>
   <ul>
-    <li>Focused on performance, SEO, and custom WordPress builds.</li>
-    <li>Improved site speed by up to 40% through optimization.</li>
+    <li>Develop and maintain WordPress websites with a focus on performance, clean design, and user experience.</li>
+    <li>Support business goals and deliver smooth experiences for end users.</li>
+    <li><b>Skills:</b> WordPress, WordPress Design, +4 more</li>
   </ul>
 </details>
+
 <details>
-  <summary><b>🔹 XemenSolutions — Senior WordPress Developer</b> <em>(Feb 2025 – Present | Remote)</em></summary>
+  <summary><b>Predawn Solutions — Senior WordPress Developer</b> <em>(Feb 2025 – Present · Full-time · Multan, Punjab, Pakistan · Remote)</em></summary>
   <ul>
-    <li>Led 150+ projects with custom plugins and reusable components.</li>
-    <li>Specialized in Core Web Vitals and mobile-first design.</li>
+    <li>Craft high-performing websites blending functionality, design, and user experience.</li>
+    <li>Custom themes, plugins, performance optimization, and SEO for fast, secure, scalable sites.</li>
+    <li>Turn ideas into seamless digital experiences and solve complex challenges.</li>
+    <li><b>Skills:</b> WordPress, PHP, +2 more</li>
   </ul>
 </details>
+
 <details>
-  <summary><b>🔹 GoAccelovate — Front-End Developer</b> <em>(Jun 2023 – Jun 2024 | Remote)</em></summary>
+  <summary><b>Upwork — Freelance Web Designer</b> <em>(Feb 2022 – Present · 3 yrs 6 mos · Pakistan · Remote)</em></summary>
   <ul>
-    <li>Built responsive layouts using HTML, CSS, JavaScript, and WordPress.</li>
-    <li>Helped reduce bounce rate by 25% through UI/UX redesign.</li>
-  </ul>
-</details>
-<details>
-  <summary><b>🔹 Upwork — Freelance WordPress Developer</b> <em>(Present | Remote)</em></summary>
-  <ul>
-    <li>Delivered 50+ freelance projects.</li>
+    <li>Delivered 50+ freelance projects as a WordPress and PHP specialist.</li>
     <li>Specialized in landing pages, custom themes, and full-site builds.</li>
+    <li><b>Skills:</b> WordPress, PHP, +4 more</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>XemenSolutions — Senior WordPress Developer</b> <em>(Nov 2024 – Feb 2025 · 4 mos · Edmond, Oklahoma, United States · Remote)</em></summary>
+  <ul>
+    <li>Led and delivered 150+ successful WordPress projects.</li>
+    <li>Built plugins, optimized performance and scalability, and created user-friendly solutions.</li>
+    <li><b>Skills:</b> WordPress, Wordpress Development, +4 more</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>XemenSolutions — Wordpress Developer</b> <em>(May 2024 – Feb 2025 · 10 mos · United States · Remote)</em></summary>
+  <ul>
+    <li>Designed, developed, and maintained WordPress websites for optimal performance and user experience.</li>
+    <li>Collaborated with teams to deliver high-quality web solutions.</li>
+    <li><b>Skills:</b> Wordpress Development, WordPress Design, +6 more</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>TAKVerge — Web Designer</b> <em>(Jun 2023 – Jun 2024 · 1 yr 1 mo · Hyderabad, Sindh, Pakistan · On-site)</em></summary>
+  <ul>
+    <li>Designed and developed visually stunning, user-friendly websites for clients across industries.</li>
+    <li>Utilized HTML, CSS, JavaScript, Adobe Creative Suite, and WordPress for engaging online experiences.</li>
+    <li>Managed WordPress sites, ensuring optimal performance and functionality.</li>
+    <li>Led a major client website redesign, increasing user engagement.</li>
+    <li>Collaborated with cross-functional teams for seamless integration and optimal UX.</li>
+    <li><b>Skills:</b> HTML5, CSS, JavaScript, WordPress, Adobe Creative Suite, +9 more</li>
   </ul>
 </details>
 
